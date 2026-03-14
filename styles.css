@@ -569,6 +569,19 @@ ul { list-style: none; }
   margin-bottom: 30px;
 }
 
+.section-header--centered {
+  text-align: center;
+}
+
+.section-label--centered {
+  text-align: center;
+  display: block;
+}
+
+.work__row-label--centered {
+  text-align: center;
+}
+
 /* ============================================
    ABOUT SECTION
    ============================================ */
