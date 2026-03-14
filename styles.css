@@ -419,6 +419,15 @@ ul { list-style: none; }
   object-fit: cover;
 }
 
+/* Force 9:16 crop on mobile */
+@media (max-width: 768px) {
+  .hero__video-bg iframe {
+    width: 350vw; /* Force horizontal overflow to zoom/crop 16:9 into 9:16 */
+    height: 100vh;
+    min-width: 350%;
+  }
+}
+
 /* Dark overlay for text contrast */
 .hero__overlay {
   position: absolute;
