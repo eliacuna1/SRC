@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" fill="white">
+  <text x="120" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="400" text-anchor="middle" letter-spacing="3">QATAR</text>
+  <text x="120" y="60" font-family="Arial, sans-serif" font-size="18" font-weight="300" text-anchor="middle" letter-spacing="4">AIRWAYS</text>
+  <path d="M50,30 Q60,15 70,30" fill="none" stroke="white" stroke-width="2"/>
+</svg>

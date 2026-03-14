@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" fill="white">
+  <text x="100" y="32" font-family="Georgia, serif" font-size="28" font-style="italic" font-weight="700" text-anchor="middle">Film</text>
+  <text x="100" y="60" font-family="Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="3">FORT WORTH</text>
+  <rect x="22" y="45" width="4" height="20" opacity="0.6"/>
+  <polygon points="30,50 30,60 38,55" opacity="0.6"/>
+</svg>
